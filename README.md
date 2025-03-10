@@ -1,5 +1,3 @@
-<img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
-
 # Project Summary
 
 In this project, we'll be practicing inserting and querying data using SQL. We'll make use of an online database emulator tool found  <a href="https://postgres.devmountain.com/">Here</a>. Careful, if you reload the page your changes will be lost.
